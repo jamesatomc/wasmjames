@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <TextView xmlns:android="http:://https://schemas.android.com/apk/res/android"
+        android:id="@android:id/text1"
+        android:paddingTap="2dip"
+        android:paddingBottor="3dip"
+        android:Layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+
+
